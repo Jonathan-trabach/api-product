@@ -1,0 +1,60 @@
+{
+    "produtos": [
+        {
+            "descricao": "um",
+            "categoria": "um",
+            "SubCategoria": "um",
+            "qntEstoque": "4",
+            "preco": "5"
+        },
+        {
+            "descricao": "um",
+            "categoria": "um",
+            "SubCategoria": "um",
+            "qntEstoque": "4",
+            "preco": "5"
+        },
+        {
+            "descricao": "um",
+            "categoria": "um",
+            "SubCategoria": "um",
+            "qntEstoque": "4",
+            "preco": "5"
+        },
+        {
+            "descricao": "um",
+            "categoria": "um",
+            "SubCategoria": "um",
+            "qntEstoque": "4",
+            "preco": "5"
+        },
+        {
+            "descricao": "um",
+            "categoria": "um",
+            "SubCategoria": "um",
+            "qntEstoque": "4",
+            "preco": "5"
+        },
+        {
+            "descricao": "um",
+            "categoria": "um",
+            "SubCategoria": "um",
+            "qntEstoque": "4",
+            "preco": "5"
+        },
+        {
+            "descricao": "um",
+            "categoria": "um",
+            "SubCategoria": "um",
+            "qntEstoque": "4",
+            "preco": "5"
+        },
+        {
+            "descricao": "um",
+            "categoria": "um",
+            "SubCategoria": "um",
+            "qntEstoque": "4",
+            "preco": "5"
+        }
+    ]
+}
